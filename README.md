@@ -10,9 +10,7 @@ To learn more, please visit: https://www.seqwa.com/
 
 ## Tech Stack
 
-- [ReactJS](https://reactjs.org/)
-- [Python](https://www.python.org/)
-- [Flask](https://flask.palletsprojects.com/en/2.0.x/)
+- [NextJS](https://nextjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [HeadlessUI](https://headlessui.dev/)
 - [Seqwa](https://www.seqwa.com/)
